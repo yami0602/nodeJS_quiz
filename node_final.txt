@@ -1,0 +1,47 @@
+Q.1 answer:  Node.js is a web application framework built on Google Chrome's runtime. Its a great framework to make interactive applications. 
+
+Q.2 answer: npm is not bundled with node.js.. to install run npm inside on the command line.
+
+
+Q.3 
+answer: app.POST();
+
+Q.4 - Renders an object to the browser.
+ 
+Q.5 answer: servers all statc files in the public folder.
+
+
+
+
+Q.7 answer: Event Loop is what allows JavaScript to use callbacks
+
+Q.8 answer: A callback function, also known as a higher-order function, is a function that is passed to another function.
+
+Q.9 answer: Synchronous Sends data in the form of blocks or frames asynchronous Sends 1 byte or character at a time.
+
+Q.10 answer: package.json is used to give information to npm that allows it to identify the project as well as handle the project's dependencies.
+
+Q.11 answer:   var fs = require("fs")
+
+Q.12 answer: The open() method opens a file by passing a file name to the method, along with how to open the file using a flag as the second parameter.
+
+Q.13 answer: The global variable __dirname will give you the directory in which the executing file is located.  
+
+Q.14 answer: No, you cannot access the DOM in node.js.
+
+Q.15 - If application has to wait for some I/O operation in order to complete its execution any further then the code responsible for waiting is known as blocking code. Node.js solves this problem by providing a callback function. The callback function gets called whenever a corresponding event is triggered.
+ 
+ Q.16 answer: Express JS.
+
+ Q.17 answer: app.get('/anything', (req,res) => {
+     res.json(jsonData);
+ })
+ 
+
+
+ Q.18 answer: CRUD: Create Read Update Delete
+
+ Q.19 answer: Node.js was originally written by Ryan Dahl in 2009, about thirteen years after the introduction of the first server-side JavaScript environment, Netscape's LiveWire Pro Web. The initial release supported only Linux and Mac OS X. Its development and maintenance was led by Dahl and later sponsored by Joyent.
+
+ Q.20 answer: By exporting the module using the require funcction 
+ ex. var express = require('express');
